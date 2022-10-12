@@ -25,7 +25,7 @@ Google's software suite for combinatorial optimization.
 
 <a name="about"></a>
 ## About OR-Tools
-
+.
 Google Optimization Tools (a.k.a., OR-Tools) is an open-source, fast and
 portable software suite for solving combinatorial optimization problems.
 
